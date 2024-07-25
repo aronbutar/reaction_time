@@ -1,4 +1,5 @@
 This project is a Python application that tests and analyzes human reaction times. It features a graphical user interface (GUI) and allows multiple users to take the test and compare their results.
+
 Features
 
 The application uses tkinter to provide a simple and intuitive GUI. Users can enter their name, start the test, and see their results on the screen. It supports multiple users, allowing each user to enter their name before starting the test, and their results will be saved separately. The reaction time data is saved to a CSV file (reaction_times.csv), which allows for persistent storage of results and enables future analysis.
